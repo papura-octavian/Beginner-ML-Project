@@ -59,7 +59,6 @@ Beginner-ML-Project/
 │
 ├── churn.ipynb                # Customer churn project
 ├── StudentPerformance.ipynb   # Student performance project
-├── WalkTrough.pdf             # Notes / learning walkthrough
 └── README.md
 
 ```
